@@ -77,3 +77,6 @@ The assistant responds based on real-time data.
  11. Conclusion
 
 This project focuses on solving a real problem faced by delivery partners. By using real-time data and simple logic, we aim to provide a system that supports them financially during difficult situations.It is a step towards making gig work more stable and secure.
+
+ Demo Video
+👉 https://drive.google.com/file/d/1RksZp6jI41RWykLdU3vzT6m3JVWyI27h/view?usp=sharing
